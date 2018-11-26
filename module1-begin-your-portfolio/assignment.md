@@ -8,7 +8,7 @@ Complete the checklist of portfolio requirements
 
 - [x] Your name (or pseudonym)
 - [x] Your bio, with a hypothesis for your niche
-    - [ ] Particular industry
+    - [xx] Particular industry
     - [ ] Particular business problem
     - [ ] Type of data scientist
     - [ ] Other: 
